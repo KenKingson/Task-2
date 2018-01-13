@@ -11,3 +11,12 @@
 
 
 capybara+json+парсер
+
+
+user_username
+email
+user_password user_password_confirmation
+user_agreement
+
+
+inbox_field
